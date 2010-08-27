@@ -144,7 +144,8 @@ function va_tt(){
 	document.getElementById("va_cptble").style.display = "block";
     }
 }
-var va_st = false; 
+// Startup minimized
+var va_st = true; 
 va_tt();
 var va_at = 1; 
 var va_ok = true, 
