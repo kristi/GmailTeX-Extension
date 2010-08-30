@@ -12,7 +12,7 @@
  *
  **************************************************************
  */
-var path_to_mathjax = "http://www.mathjax.org/mathjax/MathJax.js"; 
+//var path_to_mathjax = "http://www.mathjax.org/mathjax/MathJax.js"; 
 if( !document.getElementById('GmailTeX') ){
 var va_version = '2.4';
 var va_pdr = /[\r]{0,1}\n[ \t]*[\r]{0,1}\n/;
