@@ -1,0 +1,11 @@
+GmailTeX Chrome Extension Changelog
+
+2.0
+ * Use local version of MathJax 1.0.1a instead of loading from mathjax.org
+
+1.2.4.1
+ * Set GmailTeX to start minimized by default
+ * TODO: Start in last known state
+
+1.2.4  Initial release
+ * GmailTeX extension, using the v2.4 of GmailTeX
