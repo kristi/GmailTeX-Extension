@@ -5,4 +5,11 @@ Use plain text mode to compose your tex emails.
 GmailTeX script written by Valery Alexeev 
 http://alexeev.org/gmailtex.html
 
+To use GmailTex from the Git repository, you must download and unpack MathJax into this folder.
+Expected folder structure:
+  gmailtex.js
+  gmailtexloader.js
+  MathJax
+    MathJax.js
+  manifest.json
 
