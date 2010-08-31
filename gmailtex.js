@@ -55,6 +55,10 @@ function va_lmj(){
 	' showProcessingMessages: true,'+
 	'delayStartupUntil: "onload",'+
 	'extensions: ["tex2jax.js", "TeX/noErrors.js", "TeX/noUndefined.js", "TeX/AMSmath.js", "TeX/AMSsymbols.js"],'+
+    '"HTML-CSS": {'+
+    '  imageFont: null,'+
+    '  scale: 110'+
+    '},'+
 	'tex2jax: {'+
 	'  inlineMath: [ [\'$\',\'$\'], ["\\\\(","\\\\)"] ],' +
 	'  processEscapes: false,'+
