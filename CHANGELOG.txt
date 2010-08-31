@@ -1,5 +1,8 @@
 GmailTeX Chrome Extension Changelog
 
+2.0.1
+ * Remove MathJax image fonts and documentation to make extension fit the 10mb limit (Chrome supports real fonts so we don't need the image fonts anyway.)
+
 2.0
  * Use local version of MathJax 1.0.1a instead of loading from mathjax.org
 
