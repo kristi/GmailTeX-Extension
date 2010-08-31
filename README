@@ -1,15 +1,8 @@
 Adds GmailTeX plugin to gmail.  Texify your emails.  
 
-Use plain text mode to compose your tex emails.
+Use plain text mode to compose your tex emails.  You can write inline latex code with dollar signs $x^2$.  For display mode which puts equations on their own line, use
+$$\alpha + \beta = \gamma$$
+\[ x^2 + y^2 = z^2 \]
 
 GmailTeX script written by Valery Alexeev 
 http://alexeev.org/gmailtex.html
-
-To use GmailTex from the Git repository, you must download and unpack MathJax into this folder.
-Expected folder structure:
-  gmailtex.js
-  gmailtexloader.js
-  MathJax
-    MathJax.js
-  manifest.json
-
